@@ -20,5 +20,6 @@ I am a Full Stack Engineer from Kerala, India
 
 ## Blog posts
 <!-- BLOG-POST-LIST:START -->
- 
+- [Simplify your reducer setup for Redux Thunk.](https://medium.com/@jmathew1706/simplify-your-reducer-setup-for-redux-thunk-42bc4fd4d3ce?source=rss-88123a6765f6------2)
+- [Configuring protected routes in React using React Router](https://medium.com/@jmathew1706/configuring-protected-routes-in-react-using-react-router-af3958bfeffd?source=rss-88123a6765f6------2)
 <!-- BLOG-POST-LIST:END -->
