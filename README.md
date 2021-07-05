@@ -1,6 +1,6 @@
 ### Hello World 👋
 I am a Full Stack Engineer from Kerala, India
-- 🔭 Working on both frontend and backend using React, NextJS, NestJS and Serverless.
+- 💻 Working at COSI Group.
 - 🌱 Learning about clean code.
 <br>
 
