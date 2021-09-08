@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a Full Stack Engineer from Kerala, India
-- 💻 Working at COSI Group.
-- 🌱 Learning about clean code.
+- 💻 Working at numa.
+- 🌱 Learning about serverless and nextjs.
 <br>
 
 ## Connect with me
