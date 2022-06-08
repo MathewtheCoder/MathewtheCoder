@@ -1,7 +1,7 @@
 ### Hello World 👋
 I am a Full Stack Engineer from Berlin, Germany
 - 💻 Working at numa.
-- 🌱 Learning about serverless and nextjs.
+- 🌱 Learning about serverless stack and nextjs.
 <br>
 
 ## Connect with me
